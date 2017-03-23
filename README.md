@@ -4,3 +4,5 @@ Authentication is the process of determining whether someone or something is, in
 The concept of the project is the authentication process between a client - server application using Java remote method invocation or “Java RMI”. The server is actually a print server installed in a small company, which is able to support various operations like print(), start(), stop() etc. The full documentation can be found [here](https://drive.google.com/open?id=0B08EQYpU7wnCaVRzcnotVFlJZ0U). It is written in Java using the Eclipse environment,
 
 Thanks to [Taylor Hornby](http://crackstation.net/hashing-security.htm) for the nice __implementation of Password Hashing With PBKDF2__.
+
+Check out the implementation of access controls in the repository [basicac](https://github.com/dimitrisdan/basicac)
